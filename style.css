@@ -1,6 +1,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: darkturquoise;
+    background: radial-Gradient(circle, darkturquoise, tan);
+
 }
 h1 {
     text-align: center;
