@@ -1,12 +1,18 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background: radial-Gradient(circle, darkturquoise, tan);
+    color: purple;
 
-}
+    font-weight: bold;
+    background: url("https://pusheen.com/wp-content/uploads/2020/06/Pusheen_Zoom_Background_Fruit_Pattern_Full_2020.jpg");
+    background-size: cover; /* fill the page */
+    }
+
+
 h1 {
-    text-align: center;
+    text-align: left;
+    font-size: 50px;
 }
 img {
-    border: 5px solid black;
-    text-align: center;
+    border: 5px solid rebeccapurple; /* added "solid" */
+    text-align: left;
 }
